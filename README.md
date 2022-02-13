@@ -1,2 +1,2 @@
 # TextEditor
-Java Text Editor 
+Java Text Editor OOP Term Project
